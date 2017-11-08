@@ -1,0 +1,58 @@
+body {
+    background: rgba(0, 0, 10, 0.1);
+    color: gray;
+}
+h1 {
+  color: tomato;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 1000;
+  margin-left: 200px;
+}
+
+h2 {
+  color: orange;
+  font-family:  :"Times New Roman", Times, serif;
+  margin-left: 100px;
+}
+
+a {
+  color: lightgray;
+}
+
+a:hover {
+    color: blue;
+}
+
+.pp {
+  border-radius: 10px;
+  margin-left: 235px;
+  height: 150;
+  width: 102;
+}
+
+.container {
+  width: 700px;
+  margin-left: 390px;
+}
+
+.card {
+  border-radius: 20px;
+  background-color: white;
+  padding: 20px;
+  margin: 25px;
+  width: 600px;
+}
+
+.card h4 {
+font-size: 20px;
+color: gray;
+text-align: center;
+}
+
+.list-inline li {
+display: inline-block;
+padding: 0px 20px;
+font-size: 80px;
+margin-left: 90px;
+ }
